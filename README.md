@@ -1,22 +1,34 @@
-## Hi there 👋
+# Hi there, I'm Solara
 
-![SolaraCZ's GitHub stats](https://github-readme-stats.vercel.app/api?username=SolaraCZ&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SolaraCZ&theme=radical)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SolaraCZ&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" alt="SolaraCZ's GitHub stats" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SolaraCZ&theme=dark&hide_border=true&background=00000000" alt="GitHub Streak" height="150" />
+</p>
 
+---
 
-<!--
-**SolaraCZ/SolaraCZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About Me
 
-Here are some ideas to get you started:
+I am a passionate developer focusing on software engineering, web development, and low-level mechanics. I love building clean, efficient tools, tweaking systems, and diving into complex technical problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Tech Stack & Tools
+
+* **Languages:** Java, Python, C++, JavaScript
+* **Frameworks & Web:** React, Laravel, Inertia.js
+* **Environment:** Linux, Git
+
+---
+
+### Top Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SolaraCZ&layout=compact&theme=dark&hide_border=true&bg_color=00000000" alt="Top Langs" />
+</p>
+
+---
+
+### Connect with Me
+
+* **Discord:** `solara.01`
