@@ -15,7 +15,7 @@ I am a developer focusing on software engineering, web development, and low-leve
 
 ### Tech Stack & Tools
 
-* **Languages:** Java, Python, C++, JavaScript
+* **Languages:** Java, Python, C++, JavaScript, SQL
 * **Frameworks & Web:** React, Laravel, Inertia.js
 * **Environment:** Linux, Git
 
