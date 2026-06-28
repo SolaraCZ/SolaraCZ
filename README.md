@@ -9,7 +9,7 @@
 
 ### About Me
 
-I am a developer focusing on software engineering, web development, and low-level mechanics. I love building clean, efficient tools, tweaking systems, and diving into complex technical problems.
+I am a student and a developer focusing on software engineering, web development, and low-level mechanics. I love building clean, efficient tools, tweaking systems, and diving into complex technical problems.
 
 ---
 
